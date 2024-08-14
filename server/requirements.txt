@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+psycopg2-binary  # PostgreSQL adapter
+pydantic  # For data validation
+docker
+python-dotenv
+sqlalchemy
